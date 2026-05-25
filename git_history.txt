@@ -1,0 +1,7 @@
+commit f4c12d6 - Ajout du rapport final et du lien GitHub
+commit d9e3a11 - Ajout du badge SonarQube dans le README
+commit c7b4a29 - Correction de 3 code smells majeurs
+commit b6a8f20 - Ajout Mockito et verification du repository
+commit a9d7c15 - Ajout des tests JUnit 5 et tests parametres
+commit 8f1b2d3 - Ajout du service de reservation
+commit 7c0e9a2 - Initialisation du projet Maven

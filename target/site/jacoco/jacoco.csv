@@ -1,0 +1,2 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED
+reservation-quality,booking,ReservationService,5,95
