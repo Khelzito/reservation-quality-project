@@ -11,7 +11,7 @@ class ReservationDomainTest {
         reservation.cancel();
         assertEquals(ReservationStatus.CANCELLED, reservation.getStatus());
     }
-/*ex cuse pour test*/
+
     @Test
     void cancelReservationDeuxFoisDoitLeverException() {
         Reservation reservation = createReservation();
